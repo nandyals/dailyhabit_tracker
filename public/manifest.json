@@ -1,0 +1,10 @@
+{
+  "name": "Daily Bloom — Habit Tracker",
+  "short_name": "Daily Bloom",
+  "description": "Track your daily habits — Absolute Best or Bare Minimum, every day counts.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF7EE",
+  "theme_color": "#FBF7EE",
+  "icons": []
+}
